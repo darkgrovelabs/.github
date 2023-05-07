@@ -4,7 +4,7 @@
 
 🙋‍♀️ A short introduction
 
-Welcome to Darkgrove Labs, where we brew magical potions of open-source, web3, and blockchain-related apps and tools! Our team of full-stack wizards and CLI conjurers are on a quest to create the most secure and innovative software in the realm. With a sprinkle of AI integration, we're casting spells to revolutionize the digital world. 
+Welcome to Darkgrove Labs, where we brew magical potions of open-source, web3, and blockchain-related apps and tools! Our team of full-stack wizards and CLI conjurers are on a quest to create secure innovative in the realm. With a sprinkle of AI integration, we're casting spells to revolutionize the digital world. 
 
 🌈 Contribution guidelines
 
