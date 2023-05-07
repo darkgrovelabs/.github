@@ -2,6 +2,9 @@
 
 
 
+![dg](https://user-images.githubusercontent.com/54356171/236679201-f5fa6555-f9cd-42a6-bf66-b0d49483f4d7.png)
+
+
 🙋‍♀️ A short introduction
 
 Welcome to Darkgrove Labs, where we brew magical potions of open-source, web3, and blockchain-related apps and tools! Our team of full-stack wizards and CLI conjurers are on a quest to create secure innovative in the realm. With a sprinkle of AI integration, we're casting spells to revolutionize the digital world. 
