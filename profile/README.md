@@ -7,9 +7,7 @@
 
 🙋‍♀️ A short introduction
 
-Welcome, to the mystical realm of Darkgrove Labs! where we brew magical potions of open-source, web3, and blockchain-related apps and tools, dashboards.
-
-We are a team of magical beings, including witches, wizards, and warlocks, who are passionate about building the future of web3 and blockchain technology.
+Welcome, to the mystical realm of Darkgrove Labs! where we brew magical potions of open-source, web3, and blockchain-related apps and tools, dashboards.We are a team of magical beings, including witches, wizards, and warlocks, who are passionate about building the future of web3 and blockchain technology.
 
 Darkgrove Labs is community driven, The only way to currently become a member is by contributing to repos or even creating a new repo.
 
