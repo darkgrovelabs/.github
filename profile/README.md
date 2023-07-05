@@ -20,9 +20,6 @@ Darkgrove Labs is community driven, The only way to currently become a member is
 - github discussions
 - For the latest news and updates, follow our enchanted Twitter and Medium accounts.
 
-🍿 Fun facts
-
-Our team of magical beings feasts on a breakfast of unicorn pancakes, dragon fruit smoothies, and a side of phoenix eggs (ethically sourced, of course). This enchanted meal fuels our creativity and powers our spell-casting abilities throughout the day.
 
 🔨 What are we building now?
 
@@ -39,3 +36,8 @@ We invite all fellow adventurers to join our enchanted journey! To get involved,
 2. Add your enchanting changes and commit them.
 3. Create a mystical pull request and await the review of our wise council.
 4. Celebrate your contribution to the Darkgrove Labs legacy!
+
+
+🍿 Fun facts
+
+Our team of magical beings feasts on a breakfast of unicorn pancakes, dragon fruit smoothies, and a side of phoenix eggs (ethically sourced, of course). This enchanted meal fuels our creativity and powers our spell-casting abilities throughout the day.
