@@ -21,7 +21,10 @@ Darkgrove Labs is community driven, The only way to currently become a member is
 
 ## What are we building now? 🔨 
 
-We are currently constructing a dashboard called 🛡️ sec3hub which aggregates smart contract auditors (both individual and companies), news, resources (tools), products, and will provide access through an easy-to-use, searchable UI/UX. We are also building a bunch of CLI applications which we will release in the future. Stay tuned!
+We are currently constructing a dashboard called 🛡️ [sec3hub](https://sec3hub.xyz) which aggregates smart contract auditors (both individual and companies), news, resources (tools), products, and will provide access through an easy-to-use, searchable UI/UX.
+check out the interface [here](https://github.com/darkgrovelabs/sec3hub) and its backbone [here](https://github.com/darkgrovelabs/sec3hub-backed) . 
+
+We are also building a bunch of CLI applications which we will release in the future. Stay tuned!
 
 
 ## Contribution guidelines 💀 
